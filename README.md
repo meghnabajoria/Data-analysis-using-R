@@ -48,3 +48,27 @@ The proposal should meet the following criteria:
 3. Data Quality: Check for data quality issues, missing data, duplicates, format issues etc. and perform the necessary quality improvements. 
 4. References: If you know of any other related work done by others, please include a brief description. 
 Extra credit (5 points added to final project submission) for data chosen from: CA Open dataLinks to an external site. OR  San Jose Data
+
+## Assignment 4 ##
+
+Please answer the questions in the Rmarkdown file Download Rmarkdown fileand submit a knitted document.
+[prob_hw.zip](https://github.com/meghnabajoria/Data-analysis-using-R/files/9947181/prob_hw.zip)
+
+## Assignment 5 ##
+
+This is one of the intermediate project report. The report should include <br>
+
+### Introduction ###
+What are you curious to know about from the data you have selected? A sentence or two explaining why are you interested in studying this? <br>
+
+### Data ###
+Data source - citation or link to the source <br>
+Data collection: how/ when was data collected? Is it observational study or from an experiment? <br>
+Units of observations: What is the unit of observation, in most cases it would mean what each row indicates? <br>
+Variables: What are the variables that you are planning to study ? All or a subset of variables? <br>
+Data cleanup (optional): If you had to do any data clean up please include code and brief description of steps, e.g. handling missing observations, transforming variables, filtering on rows, removing outliers. <br>
+
+### Exploratory Data Analysis ###
+Perform relevant visualization of the data and computation of summary statistics. Include what summaries of the data might be useful in answering your question.<br> Please do not perform an exhaustive visualization. If you need to, please include not immediately relevant ones in the appendix. <br>
+### Questions for next stage ###
+Develop a 2-3 questions that would like to answer using hypothesis testing. <br>
