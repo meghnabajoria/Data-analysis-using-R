@@ -40,11 +40,11 @@ The proposal should meet the following criteria:
 
 1. Introduction: Why did you pick this dataset, what are you curious to know from the data (possibly framed as questions you want to answer using the data)? Alternatively you can also imagine yourself as a stakeholder who wants to make decisions from the data - what kind of decisions, and what do you need to know from the data to make decisions. 
 2. Data: Include context about the data covering:
-  1. Data source: Include the citation for your data, and provide a link to the source.
-  2. Data collection: Context on how the data was collected?
-  3. Cases: What are the cases (units of observation or experiment)? What do the rows represent in your dataset?
-  4. Variables: What are the variables you will be studying?
-  5. Type of study: was it an observational study or an experiment?
+  * Data source: Include the citation for your data, and provide a link to the source.
+  * Data collection: Context on how the data was collected?
+  * Cases: What are the cases (units of observation or experiment)? What do the rows represent in your dataset?
+  * Variables: What are the variables you will be studying?
+  * Type of study: was it an observational study or an experiment?
 3. Data Quality: Check for data quality issues, missing data, duplicates, format issues etc. and perform the necessary quality improvements. 
 4. References: If you know of any other related work done by others, please include a brief description. 
 Extra credit (5 points added to final project submission) for data chosen from: CA Open dataLinks to an external site. OR  San Jose Data
